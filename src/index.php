@@ -19,6 +19,7 @@
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS of RV.</p>
                 <p>Your PHP application is now running on a VOPAK ECS environment. It WORKS!!!.</p>
+                <p>Morgenochtend staat er wat anders op deze website :-).</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
