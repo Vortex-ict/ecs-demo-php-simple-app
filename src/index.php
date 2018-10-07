@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>The Simple FIRST PHP App in CIDC by RVrijenhoek</h1>
+                <h1>The Simple FIRST PHP App in Constant Integration Constant Delivery ( :-) ) by RVrijenhoek</h1>
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS of RV.</p>
                 <p>Your PHP application is now running on a VOPAK ECS environment. It WORKS!!!.</p>
